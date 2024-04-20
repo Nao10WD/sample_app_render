@@ -6,4 +6,3 @@ media
 # files
 db.sqlite3
 .DS_Store
-local_settings.py
